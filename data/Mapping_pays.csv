@@ -1,0 +1,233 @@
+Zone,Country Code,Numeric,Code zone
+Afghanistan,AFG,4,2.0
+Albania,ALB,8,3.0
+Algeria,DZA,12,4.0
+American Samoa,ASM,16,5.0
+Andorra,AND,20,6.0
+Angola,AGO,24,7.0
+Antigua and Barbuda,ATG,28,8.0
+Azerbaijan,AZE,31,52.0
+Argentina,ARG,32,9.0
+Australia,AUS,36,10.0
+Austria,AUT,40,11.0
+Bahamas,BHS,44,12.0
+Bahrain,BHR,48,13.0
+Bangladesh,BGD,50,16.0
+Armenia,ARM,51,1.0
+Barbados,BRB,52,14.0
+Belgium,BEL,56,255.0
+Bermuda,BMU,60,17.0
+Bhutan,BTN,64,18.0
+Bolivia (Plurinational State of),BOL,68,19.0
+Bosnia and Herzegovina,BIH,70,80.0
+Botswana,BWA,72,20.0
+Brazil,BRA,76,21.0
+Belize,BLZ,84,23.0
+Solomon Islands,SLB,90,25.0
+British Virgin Islands,VGB,92,239.0
+Brunei Darussalam,BRN,96,26.0
+Bulgaria,BGR,100,27.0
+Myanmar,MMR,104,28.0
+Burundi,BDI,108,29.0
+Belarus,BLR,112,57.0
+Cambodia,KHM,116,115.0
+Cameroon,CMR,120,32.0
+Canada,CAN,124,33.0
+Cabo Verde,CPV,132,35.0
+Cayman Islands,CYM,136,36.0
+Central African Republic,CAF,140,37.0
+Sri Lanka,LKA,144,38.0
+Chad,TCD,148,39.0
+Chile,CHL,152,40.0
+China; mainland,CHN,156,41.0
+China; Taiwan Province of,TWN,158,214.0
+Colombia,COL,170,44.0
+Comoros,COM,174,45.0
+Congo,COG,178,46.0
+Democratic Republic of the Congo,COD,180,250.0
+Cook Islands,COK,184,47.0
+Costa Rica,CRI,188,48.0
+Croatia,HRV,191,98.0
+Cuba,CUB,192,49.0
+Cyprus,CYP,196,50.0
+Czechoslovakia,Echec,200,51.0
+Czechia,CZE,203,167.0
+Benin,BEN,204,53.0
+Denmark,DNK,208,54.0
+Dominica,DMA,212,55.0
+Dominican Republic,DOM,214,56.0
+Ecuador,ECU,218,58.0
+El Salvador,SLV,222,60.0
+Equatorial Guinea,GNQ,226,61.0
+Ethiopia PDR,Echec,230,62.0
+Ethiopia,ETH,231,238.0
+Eritrea,ERI,232,178.0
+Estonia,EST,233,63.0
+Faroe Islands,FRO,234,64.0
+Falkland Islands (Malvinas),FLK,238,65.0
+Fiji,FJI,242,66.0
+Finland,FIN,246,67.0
+France,FRA,250,68.0
+French Guiana,GUF,254,69.0
+French Polynesia,PYF,258,70.0
+Djibouti,DJI,262,72.0
+Gabon,GAB,266,74.0
+Georgia,GEO,268,73.0
+Gambia,GMB,270,75.0
+Palestine,PSE,275,299.0
+Germany,DEU,276,79.0
+Ghana,GHA,288,81.0
+Kiribati,KIR,296,83.0
+Greece,GRC,300,84.0
+Greenland,GRL,304,85.0
+Grenada,GRD,308,86.0
+Guadeloupe,GLP,312,87.0
+Guam,GUM,316,88.0
+Guatemala,GTM,320,89.0
+Guinea,GIN,324,90.0
+Guyana,GUY,328,91.0
+Haiti,HTI,332,93.0
+Honduras,HND,340,95.0
+China; Hong Kong SAR,HKG,344,96.0
+Hungary,HUN,348,97.0
+Iceland,ISL,352,99.0
+India,IND,356,100.0
+Indonesia,IDN,360,101.0
+Iran (Islamic Republic of),IRN,364,102.0
+Iraq,IRQ,368,103.0
+Ireland,IRL,372,104.0
+Israel,ISR,376,105.0
+Italy,ITA,380,106.0
+Côte d'Ivoire,CIV,384,107.0
+Jamaica,JAM,388,109.0
+Japan,JPN,392,110.0
+Kazakhstan,KAZ,398,108.0
+Jordan,JOR,400,112.0
+Kenya,KEN,404,114.0
+Democratic People's Republic of Korea,PRK,408,116.0
+Republic of Korea,KOR,410,117.0
+Kuwait,KWT,414,118.0
+Kyrgyzstan,KGZ,417,113.0
+Lao People's Democratic Republic,LAO,418,120.0
+Lebanon,LBN,422,121.0
+Lesotho,LSO,426,122.0
+Latvia,LVA,428,119.0
+Liberia,LBR,430,123.0
+Libya,LBY,434,124.0
+Liechtenstein,LIE,438,125.0
+Lithuania,LTU,440,126.0
+Luxembourg,LUX,442,256.0
+China; Macao SAR,MAC,446,128.0
+Madagascar,MDG,450,129.0
+Malawi,MWI,454,130.0
+Malaysia,MYS,458,131.0
+Maldives,MDV,462,132.0
+Mali,MLI,466,133.0
+Malta,MLT,470,134.0
+Martinique,MTQ,474,135.0
+Mauritania,MRT,478,136.0
+Mauritius,MUS,480,137.0
+Mexico,MEX,484,138.0
+Monaco,MCO,492,140.0
+Mongolia,MNG,496,141.0
+Republic of Moldova,MDA,498,146.0
+Montenegro,MNE,499,273.0
+Montserrat,MSR,500,142.0
+Morocco,MAR,504,143.0
+Mozambique,MOZ,508,144.0
+Oman,OMN,512,221.0
+Namibia,NAM,516,147.0
+Nauru,NRU,520,148.0
+Nepal,NPL,524,149.0
+Netherlands (Kingdom of the),NLD,528,150.0
+Netherlands Antilles (former),Echec,530,151.0
+Curaçao,CUW,531,279.0
+Aruba,ABW,533,22.0
+New Caledonia,NCL,540,153.0
+Vanuatu,VUT,548,155.0
+New Zealand,NZL,554,156.0
+Nicaragua,NIC,558,157.0
+Niger,NER,562,158.0
+Nigeria,NGA,566,159.0
+Niue,NIU,570,160.0
+Norway,NOR,578,162.0
+Northern Mariana Islands,MNP,580,163.0
+Micronesia (Federated States of),FSM,583,145.0
+Marshall Islands,MHL,584,127.0
+Palau,PLW,585,180.0
+Pakistan,PAK,586,165.0
+Panama,PAN,591,166.0
+Papua New Guinea,PNG,598,168.0
+Paraguay,PRY,600,169.0
+Peru,PER,604,170.0
+Philippines,PHL,608,171.0
+Poland,POL,616,173.0
+Portugal,PRT,620,174.0
+Guinea-Bissau,GNB,624,175.0
+Timor-Leste,TLS,626,176.0
+Puerto Rico,PRI,630,177.0
+Qatar,QAT,634,179.0
+Réunion,REU,638,182.0
+Romania,ROU,642,183.0
+Russian Federation,RUS,643,185.0
+Rwanda,RWA,646,184.0
+Ascension; Saint Helena and Tristan da Cunha,SHN,654,187.0
+Saint Kitts and Nevis,KNA,659,188.0
+Anguilla,AIA,660,258.0
+Saint Lucia,LCA,662,189.0
+Saint Pierre and Miquelon,SPM,666,190.0
+Saint Vincent and the Grenadines,VCT,670,191.0
+San Marino,SMR,674,192.0
+Sao Tome and Principe,STP,678,193.0
+Saudi Arabia,SAU,682,194.0
+Senegal,SEN,686,195.0
+Serbia,SRB,688,272.0
+Seychelles,SYC,690,196.0
+Sierra Leone,SLE,694,197.0
+Singapore,SGP,702,200.0
+Slovakia,SVK,703,199.0
+Viet Nam,VNM,704,237.0
+Slovenia,SVN,705,198.0
+Somalia,SOM,706,201.0
+South Africa,ZAF,710,202.0
+Zimbabwe,ZWE,716,181.0
+Spain,ESP,724,203.0
+South Sudan,SSD,728,277.0
+Sudan,SDN,729,276.0
+Western Sahara,ESH,732,205.0
+Suriname,SUR,740,207.0
+Eswatini,SWZ,748,209.0
+Sweden,SWE,752,210.0
+Switzerland,CHE,756,211.0
+Syrian Arab Republic,SYR,760,212.0
+Tajikistan,TJK,762,208.0
+Thailand,THA,764,216.0
+Togo,TGO,768,217.0
+Tonga,TON,776,219.0
+Trinidad and Tobago,TTO,780,220.0
+United Arab Emirates,ARE,784,225.0
+Tunisia,TUN,788,222.0
+Türkiye,TUR,792,223.0
+Turkmenistan,TKM,795,213.0
+Turks and Caicos Islands,TCA,796,224.0
+Tuvalu,TUV,798,227.0
+Uganda,UGA,800,226.0
+Ukraine,UKR,804,230.0
+North Macedonia,MKD,807,154.0
+Egypt,EGY,818,59.0
+United Kingdom of Great Britain and Northern Ireland,GBR,826,229.0
+Channel Islands,Echec,830,259.0
+Guernsey,GGY,831,274.0
+Jersey,JEY,832,283.0
+Isle of Man,IMN,833,264.0
+United Republic of Tanzania,TZA,834,215.0
+United States of America,USA,840,231.0
+United States Virgin Islands,VIR,850,240.0
+Burkina Faso,BFA,854,233.0
+Uruguay,URY,858,234.0
+Uzbekistan,UZB,860,235.0
+Venezuela (Bolivarian Republic of),VEN,862,236.0
+Samoa,WSM,882,244.0
+Yemen,YEM,887,249.0
+Serbia and Montenegro,Echec,891,186.0
+Zambia,ZMB,894,251.0
